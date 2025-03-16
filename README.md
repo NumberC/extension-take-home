@@ -21,5 +21,5 @@ The playback json should be a list of dictionaries starting with a "BEGIN" type 
 [
     { type: "BEGIN", url: window.location.href, timestamp: Date.now() },
     { type: "click", selector: selector, timestamp: Date.now() },
-    { type: "input", selector: selector, value: event.target.value, timestamp: Date.now() }
+    { type: "keydown", value: event.key, timestamp: Date.now() }
 ]

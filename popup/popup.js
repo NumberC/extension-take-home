@@ -11,3 +11,17 @@ document.getElementById("download").addEventListener("click", () => {
         URL.revokeObjectURL(url);
     });
 });
+
+// // start recording
+// document.getElementById("start-recording").addEventListener("click", () => {
+//     chrome.storage.local.set({ recording: "true" });
+//     // reset actions
+//     chrome.storage.local.set({ actions: [] });
+//     console.log("Recording started");
+// });
+
+// // stop recording
+// document.getElementById("stop-recording").addEventListener("click", () => {
+//     chrome.storage.local.set({ recording: "false" });
+//     console.log("Recording stopped");
+// });

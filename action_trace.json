@@ -1,0 +1,577 @@
+[
+  {
+    "timestamp": 1742161494424,
+    "type": "BEGIN",
+    "url": "https://chatgpt.com/"
+  },
+  {
+    "selector": "body:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > main:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(2) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(4) > form:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > p:nth-of-type(1)",
+    "timestamp": 1742161494424,
+    "type": "click"
+  },
+  {
+    "timestamp": 1742161496176,
+    "type": "keydown",
+    "value": "Shift"
+  },
+  {
+    "timestamp": 1742161496329,
+    "type": "keydown",
+    "value": "H"
+  },
+  {
+    "timestamp": 1742161496578,
+    "type": "keydown",
+    "value": "i"
+  },
+  {
+    "timestamp": 1742161496708,
+    "type": "keydown",
+    "value": " "
+  },
+  {
+    "timestamp": 1742161496894,
+    "type": "keydown",
+    "value": "t"
+  },
+  {
+    "timestamp": 1742161497012,
+    "type": "keydown",
+    "value": "h"
+  },
+  {
+    "timestamp": 1742161497144,
+    "type": "keydown",
+    "value": "e"
+  },
+  {
+    "timestamp": 1742161497217,
+    "type": "keydown",
+    "value": "r"
+  },
+  {
+    "timestamp": 1742161497333,
+    "type": "keydown",
+    "value": "e"
+  },
+  {
+    "timestamp": 1742161497453,
+    "type": "keydown",
+    "value": " "
+  },
+  {
+    "timestamp": 1742161497621,
+    "type": "keydown",
+    "value": "h"
+  },
+  {
+    "timestamp": 1742161497731,
+    "type": "keydown",
+    "value": "o"
+  },
+  {
+    "timestamp": 1742161497820,
+    "type": "keydown",
+    "value": "w"
+  },
+  {
+    "timestamp": 1742161497899,
+    "type": "keydown",
+    "value": " "
+  },
+  {
+    "timestamp": 1742161498052,
+    "type": "keydown",
+    "value": "a"
+  },
+  {
+    "timestamp": 1742161498132,
+    "type": "keydown",
+    "value": "r"
+  },
+  {
+    "timestamp": 1742161498228,
+    "type": "keydown",
+    "value": "e"
+  },
+  {
+    "timestamp": 1742161498300,
+    "type": "keydown",
+    "value": " "
+  },
+  {
+    "timestamp": 1742161498433,
+    "type": "keydown",
+    "value": "y"
+  },
+  {
+    "timestamp": 1742161498514,
+    "type": "keydown",
+    "value": "o"
+  },
+  {
+    "timestamp": 1742161498567,
+    "type": "keydown",
+    "value": "u"
+  },
+  {
+    "timestamp": 1742161498756,
+    "type": "keydown",
+    "value": "Shift"
+  },
+  {
+    "timestamp": 1742161498888,
+    "type": "keydown",
+    "value": "?"
+  },
+  {
+    "selector": "body:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > main:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(2) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(4) > form:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(2) > div:nth-of-type(2) > button:nth-of-type(1) > svg:nth-of-type(1) > path:nth-of-type(1)",
+    "timestamp": 1742161500594,
+    "type": "click"
+  },
+  {
+    "selector": "body:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > main:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(3) > div:nth-of-type(1) > div:nth-of-type(1) > form:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(2) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > p:nth-of-type(1)",
+    "timestamp": 1742161503577,
+    "type": "click"
+  },
+  {
+    "timestamp": 1742161504271,
+    "type": "keydown",
+    "value": "Shift"
+  },
+  {
+    "timestamp": 1742161504444,
+    "type": "keydown",
+    "value": "I"
+  },
+  {
+    "timestamp": 1742161504779,
+    "type": "keydown",
+    "value": "'"
+  },
+  {
+    "timestamp": 1742161504987,
+    "type": "keydown",
+    "value": "m"
+  },
+  {
+    "timestamp": 1742161505080,
+    "type": "keydown",
+    "value": " "
+  },
+  {
+    "timestamp": 1742161505252,
+    "type": "keydown",
+    "value": "d"
+  },
+  {
+    "timestamp": 1742161505333,
+    "type": "keydown",
+    "value": "o"
+  },
+  {
+    "timestamp": 1742161505390,
+    "type": "keydown",
+    "value": "i"
+  },
+  {
+    "timestamp": 1742161505568,
+    "type": "keydown",
+    "value": "n"
+  },
+  {
+    "timestamp": 1742161505659,
+    "type": "keydown",
+    "value": "g"
+  },
+  {
+    "timestamp": 1742161505709,
+    "type": "keydown",
+    "value": " "
+  },
+  {
+    "timestamp": 1742161505843,
+    "type": "keydown",
+    "value": "p"
+  },
+  {
+    "timestamp": 1742161505928,
+    "type": "keydown",
+    "value": "r"
+  },
+  {
+    "timestamp": 1742161506003,
+    "type": "keydown",
+    "value": "e"
+  },
+  {
+    "timestamp": 1742161506200,
+    "type": "keydown",
+    "value": "t"
+  },
+  {
+    "timestamp": 1742161506394,
+    "type": "keydown",
+    "value": "t"
+  },
+  {
+    "timestamp": 1742161506566,
+    "type": "keydown",
+    "value": "y"
+  },
+  {
+    "timestamp": 1742161506676,
+    "type": "keydown",
+    "value": " "
+  },
+  {
+    "timestamp": 1742161506806,
+    "type": "keydown",
+    "value": "w"
+  },
+  {
+    "timestamp": 1742161506895,
+    "type": "keydown",
+    "value": "e"
+  },
+  {
+    "timestamp": 1742161507010,
+    "type": "keydown",
+    "value": "l"
+  },
+  {
+    "timestamp": 1742161507176,
+    "type": "keydown",
+    "value": "l"
+  },
+  {
+    "timestamp": 1742161507426,
+    "type": "keydown",
+    "value": "."
+  },
+  {
+    "selector": "body:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > main:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(3) > div:nth-of-type(1) > div:nth-of-type(1) > form:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(2) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(2) > div:nth-of-type(2) > button:nth-of-type(1) > svg:nth-of-type(1) > path:nth-of-type(1)",
+    "timestamp": 1742161509140,
+    "type": "click"
+  },
+  {
+    "selector": "body:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > main:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(3) > div:nth-of-type(1) > div:nth-of-type(1) > form:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(2) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > p:nth-of-type(1)",
+    "timestamp": 1742161510502,
+    "type": "click"
+  },
+  {
+    "timestamp": 1742161511998,
+    "type": "keydown",
+    "value": "Shift"
+  },
+  {
+    "timestamp": 1742161512077,
+    "type": "keydown",
+    "value": "N"
+  },
+  {
+    "timestamp": 1742161512258,
+    "type": "keydown",
+    "value": "o"
+  },
+  {
+    "timestamp": 1742161512506,
+    "type": "keydown",
+    "value": "t"
+  },
+  {
+    "timestamp": 1742161512635,
+    "type": "keydown",
+    "value": " "
+  },
+  {
+    "timestamp": 1742161512820,
+    "type": "keydown",
+    "value": "m"
+  },
+  {
+    "timestamp": 1742161513025,
+    "type": "keydown",
+    "value": "u"
+  },
+  {
+    "timestamp": 1742161513112,
+    "type": "keydown",
+    "value": "c"
+  },
+  {
+    "timestamp": 1742161513198,
+    "type": "keydown",
+    "value": "h"
+  },
+  {
+    "timestamp": 1742161513578,
+    "type": "keydown",
+    "value": " "
+  },
+  {
+    "timestamp": 1742161513763,
+    "type": "keydown",
+    "value": "n"
+  },
+  {
+    "timestamp": 1742161513849,
+    "type": "keydown",
+    "value": "o"
+  },
+  {
+    "selector": "body:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > main:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(3) > div:nth-of-type(1) > div:nth-of-type(1) > form:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(2) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(2) > div:nth-of-type(2) > button:nth-of-type(1) > svg:nth-of-type(1)",
+    "timestamp": 1742161515040,
+    "type": "click"
+  },
+  {
+    "selector": "body:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > main:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(3) > div:nth-of-type(1) > div:nth-of-type(1) > form:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(2) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > p:nth-of-type(1)",
+    "timestamp": 1742161516383,
+    "type": "click"
+  },
+  {
+    "timestamp": 1742161519129,
+    "type": "keydown",
+    "value": "Shift"
+  },
+  {
+    "timestamp": 1742161519516,
+    "type": "keydown",
+    "value": "O"
+  },
+  {
+    "timestamp": 1742161519739,
+    "type": "keydown",
+    "value": "k"
+  },
+  {
+    "timestamp": 1742161519941,
+    "type": "keydown",
+    "value": "."
+  },
+  {
+    "timestamp": 1742161520037,
+    "type": "keydown",
+    "value": " "
+  },
+  {
+    "timestamp": 1742161520157,
+    "type": "keydown",
+    "value": "Shift"
+  },
+  {
+    "timestamp": 1742161520257,
+    "type": "keydown",
+    "value": "W"
+  },
+  {
+    "timestamp": 1742161520368,
+    "type": "keydown",
+    "value": "h"
+  },
+  {
+    "timestamp": 1742161520460,
+    "type": "keydown",
+    "value": "a"
+  },
+  {
+    "timestamp": 1742161520587,
+    "type": "keydown",
+    "value": "t"
+  },
+  {
+    "timestamp": 1742161520704,
+    "type": "keydown",
+    "value": "'"
+  },
+  {
+    "timestamp": 1742161520796,
+    "type": "keydown",
+    "value": "s"
+  },
+  {
+    "timestamp": 1742161520919,
+    "type": "keydown",
+    "value": " "
+  },
+  {
+    "timestamp": 1742161521012,
+    "type": "keydown",
+    "value": "t"
+  },
+  {
+    "timestamp": 1742161521089,
+    "type": "keydown",
+    "value": "h"
+  },
+  {
+    "timestamp": 1742161521159,
+    "type": "keydown",
+    "value": "e"
+  },
+  {
+    "timestamp": 1742161521302,
+    "type": "keydown",
+    "value": " "
+  },
+  {
+    "timestamp": 1742161521361,
+    "type": "keydown",
+    "value": "w"
+  },
+  {
+    "timestamp": 1742161521516,
+    "type": "keydown",
+    "value": "e"
+  },
+  {
+    "timestamp": 1742161521678,
+    "type": "keydown",
+    "value": "a"
+  },
+  {
+    "timestamp": 1742161521802,
+    "type": "keydown",
+    "value": "t"
+  },
+  {
+    "timestamp": 1742161521959,
+    "type": "keydown",
+    "value": "h"
+  },
+  {
+    "timestamp": 1742161522042,
+    "type": "keydown",
+    "value": "e"
+  },
+  {
+    "timestamp": 1742161522125,
+    "type": "keydown",
+    "value": "r"
+  },
+  {
+    "timestamp": 1742161522243,
+    "type": "keydown",
+    "value": " "
+  },
+  {
+    "timestamp": 1742161522359,
+    "type": "keydown",
+    "value": "l"
+  },
+  {
+    "timestamp": 1742161522410,
+    "type": "keydown",
+    "value": "i"
+  },
+  {
+    "timestamp": 1742161522654,
+    "type": "keydown",
+    "value": "k"
+  },
+  {
+    "timestamp": 1742161522830,
+    "type": "keydown",
+    "value": "e"
+  },
+  {
+    "timestamp": 1742161522904,
+    "type": "keydown",
+    "value": " "
+  },
+  {
+    "timestamp": 1742161522978,
+    "type": "keydown",
+    "value": "i"
+  },
+  {
+    "timestamp": 1742161523073,
+    "type": "keydown",
+    "value": "n"
+  },
+  {
+    "timestamp": 1742161523153,
+    "type": "keydown",
+    "value": " "
+  },
+  {
+    "timestamp": 1742161523280,
+    "type": "keydown",
+    "value": "b"
+  },
+  {
+    "timestamp": 1742161523425,
+    "type": "keydown",
+    "value": "o"
+  },
+  {
+    "timestamp": 1742161523532,
+    "type": "keydown",
+    "value": "s"
+  },
+  {
+    "timestamp": 1742161523661,
+    "type": "keydown",
+    "value": "t"
+  },
+  {
+    "timestamp": 1742161523724,
+    "type": "keydown",
+    "value": "o"
+  },
+  {
+    "timestamp": 1742161523789,
+    "type": "keydown",
+    "value": "n"
+  },
+  {
+    "timestamp": 1742161523882,
+    "type": "keydown",
+    "value": " "
+  },
+  {
+    "timestamp": 1742161524260,
+    "type": "keydown",
+    "value": "t"
+  },
+  {
+    "timestamp": 1742161524324,
+    "type": "keydown",
+    "value": "o"
+  },
+  {
+    "timestamp": 1742161524445,
+    "type": "keydown",
+    "value": "d"
+  },
+  {
+    "timestamp": 1742161524535,
+    "type": "keydown",
+    "value": "a"
+  },
+  {
+    "timestamp": 1742161524650,
+    "type": "keydown",
+    "value": "y"
+  },
+  {
+    "timestamp": 1742161524862,
+    "type": "keydown",
+    "value": "Shift"
+  },
+  {
+    "timestamp": 1742161524922,
+    "type": "keydown",
+    "value": "?"
+  },
+  {
+    "selector": "body:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > main:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(3) > div:nth-of-type(1) > div:nth-of-type(1) > form:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(2) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(2) > div:nth-of-type(1) > div:nth-of-type(2) > div:nth-of-type(1) > span:nth-of-type(1) > button:nth-of-type(1) > div:nth-of-type(1)",
+    "timestamp": 1742161526304,
+    "type": "click"
+  },
+  {
+    "selector": "body:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > main:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(3) > div:nth-of-type(1) > div:nth-of-type(1) > form:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(2) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(2) > div:nth-of-type(2) > button:nth-of-type(1) > svg:nth-of-type(1) > path:nth-of-type(1)",
+    "timestamp": 1742161527318,
+    "type": "click"
+  }
+]
