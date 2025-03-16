@@ -14,3 +14,12 @@ Your final repo should contain the following 3 components:
 The workflow we've asked you to record doesn't necessarily require computer actions beyond clicking and typing, but you are encouraged to implement more involved actions, such as scrolling, click and drag, etc. if you have time.
 
 There are many possible implementations of this problem. The Chrome DevTools recorder uses HTML selectors. Another possible solution is the use of multimodal models or OCR for element detection. Think about the tradeoffs between robustness and generalizability. If you want to explain any part of your implementation, feel free to add a markdown to this repository. 
+
+## My documentation:
+The playback json should be a list of dictionaries starting with a "BEGIN" type to let us know what website to go to. After that, each item will be a click or input with the item to click or input in and with which values to input. Timestamps are stored to act with the same relative times/speeds.
+
+[
+    { type: "BEGIN", url: window.location.href, timestamp: Date.now() },
+    { type: "click", selector: selector, timestamp: Date.now() },
+    { type: "input", selector: selector, value: event.target.value, timestamp: Date.now() }
+]

@@ -1,5 +1,6 @@
 // content.js
 let actions = [];
+let isFirstAction = true;
 
 document.addEventListener("click", (event) => {
   let selector = getSelector(event.target);
@@ -27,5 +28,15 @@ function getSelector(element) {
 }
 
 function saveActions() {
-  chrome.storage.local.set({ actions });
+  if(actions.length === 1){
+    // If this is the first action saved, then first save what website we are at
+    actions[1] = actions[0]
+    actions[0] = {type: "BEGIN", url: window.location.href, timestamp: Date.now()};
+  }
+  chrome.storage.local.set({ actions }).then(() => {
+    console.log("Actions saved:", actions);
+  })
+  .catch((error) => {
+    console.error("Error saving actions:", error);
+  });
 }

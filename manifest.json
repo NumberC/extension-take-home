@@ -3,7 +3,7 @@
     "name": "DevTools Recorder",
     "version": "1.0",
     "description": "Records user interactions on Chrome",
-    "permissions": ["storage"],
+    "permissions": ["storage", "tabs", "activeTab"],
     "host_permissions": ["<all_urls>"] ,
     "background": { "service_worker": "./background.js" },
     "action": { "default_popup": "./popup/popup.html" },
